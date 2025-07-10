@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nosbench"
-version = "0.1.0"
+version = "0.1.1"
 description = "NOSBench-101: Towards Reproducible Neural Optimizer Search"
 authors = ["Goktug <20567087+goktug97@users.noreply.github.com>"]
 readme = "README.md"
